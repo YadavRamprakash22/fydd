@@ -1,0 +1,11 @@
+q1. check number is pallinodrome or not?
+q2. print prime number between particular range?
+q3. check number is armstrong or not?
+q4. write code to find factorial using recursive funtion?
+q5. sum of N even natural number using do while loop?
+q6. write a code to find compound interest using funtion and witout any inbuilt funtion?
+q7. C++ Program to Find LCM
+q8. C++ Program to For Fibonacci Number
+
+
+
